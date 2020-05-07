@@ -1,0 +1,63 @@
+
+       
+               .first
+               {
+                margin: 0px;
+                padding: 0px;
+                background-color: rgb(23, 23, 209);
+                color: white;        
+               }
+               .second ul li
+               {
+                margin: 0px;
+                padding: 0px;
+                 list-style: none;
+                 padding: 20px;
+                 padding-left:50px ; 
+                background-color:rgb(42, 42, 134);
+                color: #add8e6;   
+               }
+               .third
+               {
+                width: 25%;
+                background-color:green;
+                color:white; 
+               }
+               .four
+               { 
+                 margin-bottom: 3px;
+                width: 25%;
+                background-color:rgb(216, 210, 210);
+                color:grey; 
+               }
+               .five
+               {
+                margin-bottom: 3px;
+                width: 25%;
+                background-color:purple;
+                color:white; 
+               }
+               .six
+               {
+                width: 25%;
+                background-color:rgb(8, 8, 90);
+                color:white; 
+               }
+               .seven
+               {
+                width: 25%;
+               
+                 color: green;
+               }
+               .eight
+               {
+                 background-color: white ;
+                border: 3px solid blue;
+                color:rgb(8, 8, 90);  
+               }
+               .nine
+               {
+               background-color:  rgb(14, 13, 13) ;
+                color:white; 
+               }
+ 
